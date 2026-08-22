@@ -1,5 +1,6 @@
 # minitrue-unpersons
-Unpersons list for the Minitrue extension.
+Unpersons list for the Minitrue extension. <br>
+First version's usernames sourced from Newgrounds's Popular tab.
 
 # DISCLAIMER:
 This list is (blatantly) not exhaustive! If you want to add to the list, submit an issue with:<br>
