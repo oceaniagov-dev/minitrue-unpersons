@@ -1,5 +1,5 @@
 ||## NOTE: THIS LIST IS NOT COMPLETE FOR VERY OBVIOUS REASONS!
-||## You can help out by submitting issues on the GitHub for this list.
+||## You can help out by submitting issues on the GitHub repo for this list.
 2dswirl
 abarus
 afrobull
