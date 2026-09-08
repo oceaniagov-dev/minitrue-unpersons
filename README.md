@@ -13,4 +13,4 @@ If you do NOT want to be on the list, simply submit a new issue detailing why.
 
 # Info:
 "What qualifies?"
-Any known alias/username of anyone known for making mature/NSFW art.
+Any known alias/username of anyone known for making mature/NSFW art or content in general (OnlyFans/Fansly counts.)
