@@ -1,4 +1,4 @@
-(For the extension that uses this, check: https://github.com/oceaniagov-dev/minitrue)
+(For the extension that uses this, check: https://github.com/oceaniagov-dev/minitrue-extension)
 # minitrue-unpersons
 Unpersons list for the Minitrue extension. <br>
 First version's usernames sourced from Newgrounds's Popular tab.
