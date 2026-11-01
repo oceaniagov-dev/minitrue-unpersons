@@ -1,5 +1,5 @@
 ||## NOTE: THIS LIST IS NOT COMPLETE FOR VERY OBVIOUS REASONS!
-||## You can help out by submitting issues on the GitLab repo for this list.
+||## You can help out by submitting issues on the GitHub repo for this list. (https://github.com/oceaniagov-dev/minitrue-unpersons/blob/main/unpersons.txt)
 0juanja0
 045coconutsugar
 0918s
