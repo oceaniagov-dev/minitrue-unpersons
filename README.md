@@ -9,8 +9,6 @@ This list is (blatantly) not exhaustive! If you want to add to the list, submit 
 -Reason to add (consider Minitrue's purpose.)<br>
 -Proof of such (for the love of whatever deity you believe in, don't just embed screenshots, use links instead.<br><br><br>
 
-If you do NOT want to be on the list, simply submit a new issue detailing why.
-
 # Info:
 "What qualifies?"
 Any known alias/username of anyone known for making mature/NSFW art or content in general (adult subscription services and similars all count.)
